@@ -1,0 +1,7 @@
+#cover_page{
+    display: inline-block;
+    min-width: 640;
+    min-height: 906;
+    margin: auto;
+    align-items: center;
+}
